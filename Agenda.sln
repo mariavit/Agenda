@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda", "agenda\agenda.csproj", "{49E1A24B-F4E9-41D8-8A97-CA5B5EF1E091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda.dados", "agenda.dados\agenda.dados.csproj", "{6B28F84C-D728-437F-AB21-060AA0B9CE7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda.dominio", "agenda.dominio\agenda.dominio.csproj", "{DDA4C046-1239-482D-88B1-8C574ADAD81B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agendaservice", "agendaservice\agendaservice.csproj", "{812DA507-87A8-4522-B874-259A4CDF9FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E1A24B-F4E9-41D8-8A97-CA5B5EF1E091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E1A24B-F4E9-41D8-8A97-CA5B5EF1E091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E1A24B-F4E9-41D8-8A97-CA5B5EF1E091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E1A24B-F4E9-41D8-8A97-CA5B5EF1E091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B28F84C-D728-437F-AB21-060AA0B9CE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B28F84C-D728-437F-AB21-060AA0B9CE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B28F84C-D728-437F-AB21-060AA0B9CE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B28F84C-D728-437F-AB21-060AA0B9CE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA4C046-1239-482D-88B1-8C574ADAD81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA4C046-1239-482D-88B1-8C574ADAD81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA4C046-1239-482D-88B1-8C574ADAD81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA4C046-1239-482D-88B1-8C574ADAD81B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{812DA507-87A8-4522-B874-259A4CDF9FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812DA507-87A8-4522-B874-259A4CDF9FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812DA507-87A8-4522-B874-259A4CDF9FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812DA507-87A8-4522-B874-259A4CDF9FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
